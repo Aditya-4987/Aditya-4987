@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I am Aditya, this is my repo where you will find some of my amazing projects that i will make.
+  - _~ have a very nice day...!_
 <!--
 **Aditya-4987/Aditya-4987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
