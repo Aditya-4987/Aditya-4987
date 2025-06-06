@@ -76,7 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Aditya-4987/Aditya-4987/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Aditya-4987/Aditya-4987/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
