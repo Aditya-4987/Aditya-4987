@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1c92d2&text=A%20lifelong%20learner%20passionate%20about%20Research%20and%20Innovation&fontSize=20&fontAlignY=30&fontColor=f2f2f2" alt="header"/> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let+have+fun+together%2C+as+we+build.;creating+something+is+fun.;come+along!)](https://git.io/typing-svg)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -95,9 +99,10 @@
 ###
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-4987&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-4987&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-4987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" width="38%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEzNjB4eXNia3M0NW9hcjV4amlldTBmajd1c3Zna2Y4M2tyb2h4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0vWExNv2l9UcPCXnHR/giphy.gif"/>
+    <a href="https://github.com/Aditya-4987"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Aditya-4987&theme=radical&title_color=ff3068?"></a>
+    <a href="https://github.com/Aditya-4987"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Aditya-4987&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
 
 ###
 
@@ -114,3 +119,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Aditya-4987&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1c92d2&text=Think.%20Plan.%20Execute.&fontSize=15&fontAlignY=80&fontColor=f2f2f2&section=footer" alt="footer"/> 
