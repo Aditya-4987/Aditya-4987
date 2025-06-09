@@ -106,7 +106,12 @@
 
 ###
 
+
+## Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dOGAXvVQbw?theme=dark&font=Baumans)
+
+
+###
 
 
 ## Random Dev Quote
