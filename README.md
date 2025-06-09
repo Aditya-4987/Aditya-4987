@@ -106,6 +106,8 @@
 
 ###
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/dOGAXvVQbw?theme=dark&font=Baumans)
+
 
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
