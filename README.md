@@ -19,7 +19,7 @@
   <a href="https://t.me/addy_online" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:adityapratapsingh.dtu@gmail.com">
+  <a href="mailto:aps.aditya.4987@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Aditya-4987">
