@@ -89,11 +89,8 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-4987&theme=radical&title_color=ff3068&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-4987&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" height="180" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-4987&theme=radical&hide_border=false&layout=compact" height="130" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-4987&theme=radical&hide_border=false&layout=compact" height="180" alt="Top Languages" />
 </p>
 
 ---
