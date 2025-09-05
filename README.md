@@ -101,13 +101,13 @@
 </p>
 
 ---
-
+<!-- 
 <h2 align="center">💡 LeetCode Stats</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dOGAXvVQbw?theme=dark&font=Baumans" alt="LeetCode Stats" />
 </p>
 
----
+--- -->
 
 <h2 align="center">💬 Random Dev Quote</h2>
 <p align="center">
