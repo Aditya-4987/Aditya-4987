@@ -34,7 +34,7 @@
 <p align="center">
   <b>I'm Aditya Pratap Singh from Lucknow, India.</b><br>
   <b>🔭 Currently learning:</b> JavaScript & Web Development<br>
-  <b>🎓 2nd year student at Delhi Technological University</b><br>
+  <b>🎓 3rd year student at Delhi Technological University</b><br>
   <b>🤓 I love creating things more than just coding.</b><br>
   <i>~"If this feels boring or frustrating, just have a coffee with a clear mind".</i>
 </p>
@@ -79,28 +79,28 @@
 </p>
 
 ---
-
+<!--
 <h2 align="center">🐍 GitHub Snake Game</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya-4987/Aditya-4987/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
-
+--- -->
+<!--
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-4987&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" height="180" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-4987&theme=radical&hide_border=false&layout=compact" height="180" alt="Top Languages" />
 </p>
 
----
-
+--- -->
+<!--
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-4987&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
+--- -->
 <!-- 
 <h2 align="center">💡 LeetCode Stats</h2>
 <p align="center">
